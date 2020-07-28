@@ -1,4 +1,4 @@
-# Inspecciones Atrios Seguros ISM    27 / 07 / 2020
+# Inspecciones ISM    
 
 ## Atrios Seguros.
 
@@ -25,10 +25,12 @@
   Fecha:
   
   Estatus:
-  En espera de los detalles de la inspeccion.
+  Martes 28 / 07 / 2020.
   
   }
   ```
+
+  
 
   
 
@@ -60,6 +62,8 @@
 
   
 
+  
+
 - [ ] ### 	Sra. Martha Achury.
 
   ​	
@@ -83,6 +87,8 @@
   
   }
   ```
+
+  
 
   
 
@@ -113,6 +119,8 @@
 
   
 
+  
+
 - [ ] ### 	Sr. Eliecer Rodríguez.
 
   ​	
@@ -131,10 +139,12 @@
   Fecha:
   
   Estatus:
-  Pendiente por ejecutar.
+  Martes 28 / 07 / 2020.
   
   }
   ```
+
+  
 
   
 
@@ -157,9 +167,11 @@
   Fecha:
   
   Estatus:
-  Pendiente por ejecutar.
+  Martes 28 / 07 / 2020.
   }
   ```
+
+  
 
   
 
@@ -177,7 +189,10 @@
   Sr. Augusto José Da Costa W. Tlf. 0212-614.6474
   
   Detalle: 
-  Es factible contra Torre-Polar, se requieren 35 Mts Utp, 5 Rj45, el cableao sera por el ducto de aire de los banos, la antena puede ser instalada con mastil tipo DirecTV al lado del respiradero de los banos.
+  Es factible contra Torre-Polar,el cableao sera por el ducto de aire de los banos, la antena puede ser instalada con mastil tipo DirecTV al lado del respiradero de los banos.
+  
+  Materiales:
+  1 Base DirecTV o Base Daff, 35 Mts UPT, 5 Rj45, 1 Antena, 1 Router, tornillos tuercas etc.
   
   Responsable:
   Saget Perez
@@ -222,6 +237,8 @@
 
   
 
+  
+
 - [ ] ### 	Sr. Héctor Diaz.
 
   ​	
@@ -235,7 +252,10 @@
   Sr. Hector Diaz, Tlf. 0212-5721929 y 0412-3136748.
   
   Detalle:
-  Es factible solo del edificio del sr Oscar Mendoza, se requieren 45 Mts de cable UTP, 5 RJ45, el cableado se debe realizar por el ducto de aire de los banos, la instalacion de la antena puede ser instalada con mastil tipo DirecTV, el cliente indica conocer la ruta del cableado de su servicio de DirecTV el cual servira de guia para los trabajos.
+  Es factible solo del edificio del sr Oscar Mendoza, el cableado se debe realizar por el ducto de aire de los banos, la instalacion de la antena puede ser instalada con mastil tipo DirecTV, el cliente indica conocer la ruta del cableado de su servicio de DirecTV el cual servira de guia para los trabajos.
+  
+  Materiales:
+  1 Base DirecTV o Base Daff, 45 Mts UPT, 5 Rj45, 1 Antena, 1 Router, tornillos tuercas etc.
   
   Responsable:
   Saget Perez,
@@ -262,11 +282,13 @@
   ```
   {
   Direccion:
+  Av. Panteón Resd. Nathalie. Norte5. Calle ciega. Como referencia hay una Panadería que hace esquina
   
   Contacto:
+  MA. Alejandra Tlf. 0412-0205522 
   
   Detalle:
-  en espera de coordinar día para realizar la inspección,
+  Coordinar día para realizar la inspección,
   
   Responsable:
   Gianfranco Guerra,
@@ -275,9 +297,11 @@
   Pendiente por ejecutar.
   
   Estatus:
-  En espera que el cliente comunique disponibilidad y direccion exacta.
+  En espera de disponibilidad.
   }
   ```
+
+  
 
   
 
@@ -308,5 +332,3 @@
   ```
 
   
-
-federica plastitec las mercedes las mascaras 04144856023
